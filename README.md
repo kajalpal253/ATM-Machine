@@ -1,4 +1,4 @@
-If you're building a simple ATM machine program entirely in Java, the code would simulate basic ATM functionalities like account balance checking, deposits, withdrawals without any external libraries or databases. Here’s a description of how to structure and approach this program in plain Java:
+We make simple ATM machine using Java programming , the code would simulate basic ATM functionalities like account balance checking, deposits, withdrawals without any external libraries or databases. Here’s a description of how to structure and approach this program in plain Java:
 . Attributes: accountNumber, pin, and balance are essential data fields. The accountNumber and pin fields handle identification and security, while balance stores the current funds.
 Methods:-
 validatePin(int inputPin): Checks if the entered PIN matches the account's PIN.
